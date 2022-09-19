@@ -1,1 +1,2 @@
 Implementando arquivo de texto no github por meio do gitbash
+Alterando o arquivo com a adição dessa linha
